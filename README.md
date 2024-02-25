@@ -44,17 +44,16 @@ Industries across various sectors can leverage this payment system to modernize 
 
 
 
-# Compile and deploy this smart contract to Tezos blockchain
 
 # Configuration:
 Ensure that you have obtained the necessary API access credentials for the Onmeta API and configure them properly in the smart contract code.
 Contributions:
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
-
+# Contribution 
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. We are particularly looking for contributors who can create a good frontend for the system.
 # License:
 This project is licensed under the MIT License.
 
 # Acknowledgments:
 Special thanks to the creators of Tezos, SmartPy, and Onmeta for providing the tools and resources necessary for developing this smartpayment Gateway .
 
-This README provides an overview of the smart contract project, including installation instructions, usage guidelines, example code snippets, configuration details, contribution guidelines, and licensing information. For further assistance or inquiries, please contact the repository maintainers.
